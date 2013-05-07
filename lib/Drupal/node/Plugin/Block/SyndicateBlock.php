@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\node\Plugin\block\block\SyndicateBlock.
+ * Contains \Drupal\node\Plugin\Block\SyndicateBlock.
  */
 
-namespace Drupal\node\Plugin\block\block;
+namespace Drupal\node\Plugin\Block;
 
 use Drupal\block\BlockBase;
 use Drupal\Component\Annotation\Plugin;

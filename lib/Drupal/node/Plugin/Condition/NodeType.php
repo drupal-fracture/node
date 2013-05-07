@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\node\Plugin\Core\Condition\NodeType.
+ * Contains \Drupal\node\Plugin\Condition\NodeType.
  */
 
-namespace Drupal\node\Plugin\Core\Condition;
+namespace Drupal\node\Plugin\Condition;
 
 use Drupal\Core\Condition\ConditionPluginBase;
 use Drupal\Component\Annotation\Plugin;
